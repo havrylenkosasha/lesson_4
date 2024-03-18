@@ -1,0 +1,259 @@
+/* LOCAL FONTS */
+@import url("fonts.css");
+
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Montserrat+Alternates:wght@400;500;600;700&family=VT323&display=swap');
+
+/* RESET STYLES */
+@import url("reset.css");
+
+
+/* ---------- fonts.html styles ---------- */
+
+.fonts {}
+
+.fonts__title {
+    font-size: 32px;
+    font-weight: 800;
+    font-family: "Arial";
+    line-height: 1.8;
+}
+
+.fonts__list {}
+
+.fonts__item {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.fonts_aller-700 {
+    font-family: "Aller", sans-serif;
+    font-weight: 700;
+}
+
+.fonts_aller-400 {
+    font-family: "Aller", sans-serif;
+    font-weight: 400;
+}
+
+.fonts_aller-300-italic {
+    font-family: "Aller", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.fonts_caviar-dreams-700 {
+    font-family: "Caviar Dreams", sans-serif;
+    font-weight: 700;
+}
+
+.fonts_caviar-dreams-400 {
+    font-family: "Caviar Dreams", sans-serif;
+    font-weight: 400;
+}
+
+.fonts_cooper-hewitt-700 {
+    font-family: "Cooper Hewitt";
+    font-weight: 700;
+}
+
+.fonts_cooper-hewitt-600 {
+    font-family: "Cooper Hewitt";
+    font-weight: 600;
+}
+
+.fonts_cooper-hewitt-500 {
+    font-family: "Cooper Hewitt";
+    font-weight: 500;
+}
+
+.fonts_montserrat-alternates-700 {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 700;
+}
+
+.fonts_montserrat-alternates-500 {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 500;
+}
+
+.fonts_montserrat-alternates-400 {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+}
+
+.fonts_madimi-one-400 {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+}
+
+.fonts_vt323-400 {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+}
+
+/* ----------------------------- */
+
+/* ---------- article.html styles ---------- */
+
+.header {
+    text-align: center;
+}
+
+.header__container {}
+
+.header__menu {}
+
+.menu {}
+
+.menu__title {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+.menu__list {}
+
+.menu__item {}
+
+.menu__link {
+    font-style: italic;
+    text-decoration: underline;
+    line-height: 1.25;
+}
+
+
+.article {
+    font-family: "Montserrat Alternates", sans-serif;
+    color: #000310;
+}
+
+.article__title {
+    text-transform: capitalize;
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-shadow:
+        5px 5px 15px rgba(137, 194, 255, 0.4),
+        -2px -2px 5px rgb(206, 163, 255);
+
+}
+
+.article__text {
+    line-height: 1.3;
+}
+
+.article__block {}
+
+.block {}
+
+.block__title {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.block__text {
+    line-height: 1.3;
+}
+
+.footer {
+    text-align: right;
+}
+
+.footer__container {}
+
+.footer__menu {}
+
+#article-block-1 {}
+
+#article-block-2 {}
+
+#article-block-3 p {
+    text-decoration: line-through;
+    text-decoration-color: rgb(74, 53, 166);
+    text-decoration-style: double;
+}
+
+#article-block-4 {
+    text-transform: lowercase;
+    text-decoration: line-through;
+}
+
+#article-block-5 {}
+
+#article-block-6 {}
+
+#article-block-7 {}
+
+#article-block-8 p {
+    white-space: nowrap;
+    letter-spacing: 5px;
+}
+
+#article-block-9 {
+    word-spacing: 20px;
+}
+
+#article-block-10 {}
+
+
+/* ---------- krovato ---------- */
+
+.main__krovato {}
+
+.krovato {
+    font-family: "Proxima Nova";
+    color: #2B2929;
+}
+
+.krovato__container {}
+
+.krovato__how {}
+
+.how {}
+
+.how__title {}
+
+.title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.how__text {}
+
+.text {
+    line-height: 1.875;
+}
+
+.krovato__choose {}
+
+.choose {}
+
+.choose__title {}
+
+.choose__image {
+}
+
+.choose__text {}
+
+.krovato__points {}
+
+.points {}
+
+.points__title {
+    font-size: 20px;
+    line-height: 1.4;
+    font-weight: 600;
+}
+
+.points__list {}
+
+.points__item {}
+
+.krovato__sum-up {}
+
+/* ----------------------------- */

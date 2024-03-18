@@ -1,0 +1,72 @@
+@font-face {
+	font-family: "Aller";
+	src: url("../fonts/Aller_Bd.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Aller";
+	src: url("../fonts/Aller_LtIt.woff2") format("woff2");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Aller";
+	src: url("../fonts/Aller_Rg.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Caviar Dreams";
+	src: url("../fonts/Caviar_Dreams_Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Caviar Dreams";
+	src: url("../fonts/CaviarDreams.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Cooper Hewitt";
+	src: url("../fonts/CooperHewitt-Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Cooper Hewitt";
+	src: url("../fonts/CooperHewitt-Semibold.woff2") format("woff2");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Cooper Hewitt";
+	src: url("../fonts/CooperHewitt-Medium.woff2") format("woff2");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* KROVATO */
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("../fonts/ProximaNova-Regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("../fonts/ProximaNova-Semibold.woff2") format("woff2");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
